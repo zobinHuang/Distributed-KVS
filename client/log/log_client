@@ -1,0 +1,60 @@
+
+
+------TEST FOR 1 SERVER------
+1. Receive from remote:
+    start: 1602080617.121443
+    end:   1602080617.121446
+2. Consistent Hash:
+    start: 1602080617.121534
+    end:   1602080617.121536
+3. Send to server:
+    start: 1602080617.121547
+    end:   1602080617.121564
+4. Recv from server:
+    start: 1602080617.121577
+    end:   1602080617.121679
+
+
+------TEST FOR 1 SERVER------
+1. Receive from remote:
+    start: 1602080639.145382
+    end:   1602080639.145384
+2. Consistent Hash:
+    start: 1602080639.145438
+    end:   1602080639.145440
+3. Send to server:
+    start: 1602080639.145454
+    end:   1602080639.145469
+4. Recv from server:
+    start: 1602080639.145483
+    end:   1602080639.145732
+
+
+------TEST FOR 1 SERVER------
+1. Receive from remote:
+    start: 1602080647.938559
+    end:   1602080647.938562
+2. Consistent Hash:
+    start: 1602080647.938630
+    end:   1602080647.938633
+3. Send to server:
+    start: 1602080647.938643
+    end:   1602080647.938657
+4. Recv from server:
+    start: 1602080647.938670
+    end:   1602080647.938802
+
+
+------TEST FOR 1 SERVER------
+1. Receive from remote:
+    start: 1602080655.889380
+    end:   1602080655.889391
+2. Consistent Hash:
+    start: 1602080655.889450
+    end:   1602080655.889461
+3. Send to server:
+    start: 1602080655.889471
+    end:   1602080655.889480
+4. Recv from server:
+    start: 1602080655.889493
+    end:   1602080655.889721

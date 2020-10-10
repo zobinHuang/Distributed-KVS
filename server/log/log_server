@@ -1,0 +1,48 @@
+
+
+------TEST FOR 1000 IN-MEM ENTRIES, 1000 IN-SSD ENTRIES------
+1. Receive from client:
+    start: 1602079351.443119
+    end:   1602079351.443122
+2. In memory searching (GET):
+    start: 1602079351.443181
+    end:   1602079351.443181
+3. Response to client:
+    start: 1602079351.443189
+    end:   1602079351.443222
+
+
+------TEST FOR 1000 IN-MEM ENTRIES, 1000 IN-SSD ENTRIES------
+1. Receive from client:
+    start: 1602079386.923158
+    end:   1602079386.923161
+2. In memory searching (GET):
+    start: 1602079386.923227
+    end:   1602079386.923230
+3. Response to client:
+    start: 1602079386.923238
+    end:   1602079386.923258
+
+
+------TEST FOR 1000 IN-MEM ENTRIES, 1000 IN-SSD ENTRIES------
+1. Receive from client:
+    start: 1602079395.764782
+    end:   1602079395.764794
+2. In SSD searching (GET):
+    start: 1602079395.764853
+    end:   1602079395.764894
+3. Response to client:
+    start: 1602079395.764904
+    end:   1602079395.764915
+
+
+------TEST FOR 1000 IN-MEM ENTRIES, 1000 IN-SSD ENTRIES------
+1. Receive from client:
+    start: 1602079401.579973
+    end:   1602079401.579975
+2. In SSD searching (GET):
+    start: 1602079401.580046
+    end:   1602079401.580144
+3. Response to client:
+    start: 1602079401.580154
+    end:   1602079401.580167
